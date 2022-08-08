@@ -4,3 +4,4 @@
 
 layout: home
 ---
+I am the home/index page content
