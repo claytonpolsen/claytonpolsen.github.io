@@ -29,8 +29,9 @@ url: "https://acwindowcoverings.com" # the base hostname & protocol for your sit
 twitter_username: acwindowcoverings
 github_username:  claytonpolsen
 
-# Build settings
+theme_color: #712cf9
 
+# Build settings
 plugins:
   - jekyll-feed
 

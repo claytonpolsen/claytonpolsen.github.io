@@ -1,2 +1,3 @@
 # claytonpolsen.github.io
-My Public Resume
+
+Website for AC Window Coverings
