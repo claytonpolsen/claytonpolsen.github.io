@@ -1,0 +1,9 @@
+{
+  "name": "AC Window Coverings",
+  "short_name": "ACWC",
+  "theme_color": "#001aff",
+  "background_color": "#d1e5f5",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/"
+}
