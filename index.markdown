@@ -23,12 +23,12 @@ images:
     text: Text Three Text
     button: Button 3 Text
     url: /foobar3
-  - image:
-    src: /assets/images/carousel-04.jpg
-    header: Header Four Text
-    text: Text Four Text
-    button: Button 4 Text
-    url: /foobar4
+#  - image:
+#    src: /assets/images/carousel-04.jpg
+#    header: Header Four Text
+#    text: Text Four Text#
+#    button: Button 4 Text
+#    url: /foobar4
 marketings:
   - data:
     image: /assets/images/marketing-01.jpg
@@ -37,16 +37,16 @@ marketings:
     link: /foobar1
     link_text: View Details
   - data:
-    image: /assets/images/carousel-02.jpg
+    image: /assets/images/marketing-02.jpg
     head: Product Two
     text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eget sodales nibh. Fusce tincidunt leo sed pretium.
-    link: /foobar1
+    link: /foobar2
     link_text: See Now
   - data:
-    image: /assets/images/carousel-03.jpg
+    image: /assets/images/marketing-03.jpg
     head: Product Three
     text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eget sodales nibh. Fusce tincidunt leo sed pretium.
-    link: /foobar1
+    link: /foobar3
     link_text: Look Here
 featurettes:
   - data:

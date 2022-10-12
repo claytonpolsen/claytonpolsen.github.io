@@ -29,11 +29,27 @@ url: "https://acwindowcoverings.com" # the base hostname & protocol for your sit
 twitter_username: acwindowcoverings
 github_username:  claytonpolsen
 
+logo: /assets/images/logo.png
 theme_color: #712cf9
+
+workbox:
+  sw_src_filepath: /assets/js/sw.js # Optional
+  sw_dest_filename: /assets/js/sw.js # Optional
+  precache_recent_posts_num: 5 # Optional
+  precache_glob_directory: / # Optional
+  precache_glob_patterns: # Optional
+    - "{js,css,fonts}/**/*.{js,css,eot,svg,ttf,woff}"
+    - index.html
+    - "about.html": # This entry aliases about/ and contact/ to about.html
+        - about/
+        - contact/
+  precache_glob_ignores: # Optional
+    - "fonts/**/*"
 
 # Build settings
 plugins:
   - jekyll-feed
+  - jekyll-workbox-plugin
 
 # Exclude from processing.
 # The following items will not be processed, by default.
