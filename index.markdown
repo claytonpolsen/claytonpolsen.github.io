@@ -31,11 +31,11 @@ images:
 #    url: /foobar4
 marketings:
   - data:
-    image: /assets/images/marketing-01.jpg
-    head: Product One
+    image: /assets/images/logo.png
+    head: Our Results
     text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eget sodales nibh. Fusce tincidunt leo sed pretium.
     link: /foobar1
-    link_text: View Details
+    link_text: Read More
   - data:
     image: /assets/images/marketing-02.jpg
     head: Product Two

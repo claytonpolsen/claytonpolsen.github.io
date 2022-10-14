@@ -1,7 +1,25 @@
 ---
 author: Pete
-date: 2022-08-09
-layout: page
+date: 2022-10-13
 ---
-This is a post
-{{ content }}
+<!doctype html>
+<html lang="en">
+  {% include head.html %}
+  <style>
+    main {
+      margin-top: 100px;
+    }
+  </style>
+  <body>
+    {% include header_nav.html %}
+    <main>
+      <div class="container">
+        {{ content }}
+      </div>
+      <footer class="container">
+        <p class="float-end"><a href="#">Back to top</a></p>
+        <p>&copy; 2022 {{ site.name }} &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a></p>
+      </footer>
+    </main>
+  </body>
+</html>

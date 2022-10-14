@@ -1,3 +1,16 @@
+
+if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.register('/assets/js/service-worker.js');
+}
+
+// document.querySelector('#logo').addEventListener('click', () => {
+//   const iconUrl = document.querySelector('select').selectedOptions[0].value;
+//   let imgElement = document.createElement('img');
+//   imgElement.src = iconUrl;
+//   document.querySelector('#container').appendChild(imgElement);
+// });
+
+
 // set names for both precache & runtime cache
 workbox.core.setCacheNameDetails({
   prefix: 'acwindowcoverings.com',
