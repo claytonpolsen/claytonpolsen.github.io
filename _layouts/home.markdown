@@ -4,21 +4,22 @@ author: Pete
 title: Home
 date: 2022-08-09
 ---
+<section class="py-5 text-center container-fluid" style="margin-top: 150px; background-image: url('/assets/images/IMG_0777.JPG'); max-height: 430px; background-size: cover; background-position: top right" >
+  <div class="row py-lg-5">
+    <div class="col-lg-6 col-md-8 mx-auto">
+      <h1 class="text-black">Custom Window Coverings</h1>
+      <p class="lead"></p>
+      <p>
+        <a href="#" class="btn btn-primary my-2">Main call to action</a>
+        <a href="#" class="btn btn-secondary my-2">Secondary action</a>
+      </p>
+    </div>
+  </div>
+</section>
   <div class="container">
   {{ content }}
   </div>
   <div class="container marketing">
-    <!-- Three columns of text below the carousel -->
-    <div class="row">
-      {% for data in page.marketings %}
-        <div class="col-lg-4">
-          <img src="{{ data.image }}" class="bd-placeholder-img rounded-circle" width="140" height="140" />
-          <h2 class="fw-normal">{{ data.head }}</h2>
-          <p>{{ data.text }}</p>
-          <p><a class="btn btn-secondary" href="{{ data.link }}"">{{ data.link_text }} &raquo;</a></p>
-        </div><!-- /.col-lg-4 -->
-      {% endfor %}
-    </div><!-- /.row -->
     <!-- START THE FEATURETTES -->
     <hr class="featurette-divider">
     <div class="row featurette">

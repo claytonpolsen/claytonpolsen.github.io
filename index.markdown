@@ -5,7 +5,7 @@ date: 2022-08-09
 layout: home
 images:
   - image:
-    src: /assets/images/carousel-01.jpg
+    src: /assets/images/carousel-03.jpg
     header: Header One Text
     text: Text One Text
     button: Button One Text
@@ -18,7 +18,7 @@ images:
     button: Button Two Text
     url: /foobar2
   - image:
-    src: /assets/images/carousel-03.jpg
+    src: /assets/images/carousel-01.jpg
     header: Header Three Text
     text: Text Three Text
     button: Button 3 Text
@@ -31,30 +31,30 @@ images:
 #    url: /foobar4
 marketings:
   - data:
-    image: /assets/images/logo.png
-    head: Our Results
-    text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eget sodales nibh. Fusce tincidunt leo sed pretium.
-    link: /foobar1
+    image: /assets/images/IMG_0765.jpg
+    head: Shutters
+    text: Our shutter are the the best available and in stock now!
+    link: /our-shutters
     link_text: Read More
   - data:
-    image: /assets/images/marketing-02.jpg
-    head: Product Two
+    image: /assets/images/IMG_0853.jpg
+    head: Shades
     text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eget sodales nibh. Fusce tincidunt leo sed pretium.
-    link: /foobar2
+    link: /our-shades
     link_text: See Now
   - data:
-    image: /assets/images/marketing-03.jpg
-    head: Product Three
+    image: /assets/images/logo.png
+    head: Blinds
     text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eget sodales nibh. Fusce tincidunt leo sed pretium.
-    link: /foobar3
+    link: /our-blinds
     link_text: Look Here
 featurettes:
   - data:
-    text: We Provide This Service
-    lead: Some great placeholder content for the first featurette here. Imagine some exciting prose here.
+    text: Free In Home Consultations
+    lead: Some more text here.
     image: /assets/images/featurette-01.jpg
   - data:
-    text: Another Service
+    text: Installation Included
     lead: Some great placeholder content for the first featurette here. Imagine some exciting prose here.
     image: /assets/images/featurette-02.jpg
   - data:
