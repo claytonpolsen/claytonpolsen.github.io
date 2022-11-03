@@ -6,10 +6,7 @@ permalink: /about/
 
 ## AC Window Coverings
 ### Is Owned and Operated by
-#### Clayton Olsen
+#### Clayton Olsen and Alyssa Quincy
 
-BLah blah blah
-
-Been in the industry since...
-
+Been in the industry since forever 
 We like this...
