@@ -8,10 +8,10 @@ date: 2022-08-09
   <div class="row py-lg-5">
     <div class="col-lg-6 col-md-8 mx-auto">
       <h1 class="text-black">Give your home the perfect finishing touch!</h1>
-      <p class="lead">Take a look at the best modern options by Norman Window Fashions!</p>
+      <p class="">Take a look at the best modern options by Norman Window Fashions!</p>
       <p>
         <a href="#" class="btn btn-primary my-2">Setup a Consultation</a>
-        <a href="#" class="btn btn-secondary my-2">Secondary action</a>
+        <a href="#" class="btn btn-secondary my-2">Professional Installation</a>
       </p>
     </div>
   </div>
