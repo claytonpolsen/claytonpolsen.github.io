@@ -7,10 +7,10 @@ date: 2022-08-09
 <section class="py-5 text-center container-fluid" style="margin-top: 150px; background-image: url('/assets/images/IMG_0777.JPG'); max-height: 430px; background-size: cover; background-position: top right" >
   <div class="row py-lg-5">
     <div class="col-lg-6 col-md-8 mx-auto">
-      <h1 class="text-black">Custom Window Coverings</h1>
-      <p class="lead"></p>
+      <h1 class="text-black">Give your home the perfect finishing touch!</h1>
+      <p class="lead">Take a look at the best modern options by Norman Window Fashions!</p>
       <p>
-        <a href="#" class="btn btn-primary my-2">Main call to action</a>
+        <a href="#" class="btn btn-primary my-2">Setup a Consultation</a>
         <a href="#" class="btn btn-secondary my-2">Secondary action</a>
       </p>
     </div>
