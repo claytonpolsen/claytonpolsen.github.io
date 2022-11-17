@@ -1,5 +1,6 @@
 ---
-
+author: Pete
+date: 2022-11-17
 ---
 <!doctype html>
 <html lang="en">
@@ -13,8 +14,10 @@
     {% include header_nav.html %}
     <main>
       <div class="container">
-        <h1>Title: {{ post.title }}</h1>
-        <b>Categories: {{ post.categories }}</b>
+        {% if post %}
+          <h1>Title: {{ post.title }}</h1>
+          <b>Categories: {{ post.categories }}</b>
+        {% endif %}
         {{ content }}
       </div>
       <footer class="container">

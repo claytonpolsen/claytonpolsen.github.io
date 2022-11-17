@@ -10,8 +10,7 @@ date: 2022-08-09
       <h1 class="text-black">Give your home the perfect finishing touch!</h1>
       <p class="">Take a look at the best modern options by Norman Window Fashions!</p>
       <p>
-        <a href="#" class="btn btn-primary my-2">Setup a Consultation</a>
-        <a href="#" class="btn btn-secondary my-2">Professional Installation</a>
+        <a href="/contact" class="btn btn-primary my-2">Setup a Consultation</a>
       </p>
     </div>
   </div>
@@ -30,6 +29,9 @@ date: 2022-08-09
           <span class="text-muted">{{ data.text }}</span>
         </h2>
         <p class="lead">{{ data.lead }}</p>
+        {% if data.button %}
+          <a href="{{ data.button.link }}" class="btn btn-primary my-2" target="_blank">{{ data.button.text }}</a>
+        {% endif %}
       </div>
       <div class="col-md-5">
         <img class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" src="{{ data.image }}"/>
