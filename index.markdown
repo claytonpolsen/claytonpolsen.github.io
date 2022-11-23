@@ -49,24 +49,24 @@ featurettes:
   - data:
     text: We offer a wide range of window finishings!
     lead: Everything from classic plantation shutters to modern motorized roller shades that can adjust with a press of a button!
-    image: /assets/images/IMG_KITCHISLAND_CHANDELIER_SHUTTER_web.png
+    image: /assets/images/IMG_TVROOM_SHUTTERS_web.png
     button:
       text: Setup a Consultation!
       link: /contact
   - data:
     text: How to get started
     lead: Setup a Consultation!
-    image: /assets/images/IMG_TVROOM_SHUTTERS_web.png
+    image: /assets/images/IMG_KITCHISLAND_CHANDELIER_SHUTTER_web.png
     button:
       text: Setup a Consultation!
       link: /contact
   - data:
-    header: We a a licensed and insured dealer of Norman Window Fashions
-    text: For more examples of what we can provide
-    lead: Check out the Norman USA website.
+    header: A&C Window Coverings is a licensed and Insured dealer of Norman Window Fashions
+    text:
+    lead: For more examples of what we can provide, take a look at their website
     image: /assets/images/IMG_BEDROOM_ARCHSHUTTER_web.png
     button:
-      text: Visit their website showroom
+      text: Take a look at their website
       link: http://normanusa.com
 ---
 <!-- I am the home/index page content but commented out -->
