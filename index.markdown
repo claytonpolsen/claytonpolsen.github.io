@@ -55,7 +55,7 @@ featurettes:
       link: /contact
   - data:
     text: How to get started
-    lead: Setup a Consultation!
+    lead: <ul><li>Set up a consultation</li><li>We'll measure your windows and give you a quote</li><li>We'd love to help you find what you're looking for!</li><li>Once your order is received, we'll set up a date to come and install your new window coverings</li><li>Easy as that!</li></ul>
     image: /assets/images/IMG_KITCHISLAND_CHANDELIER_SHUTTER_web.png
     button:
       text: Setup a Consultation!
@@ -66,7 +66,7 @@ featurettes:
     lead: For more examples of what we can provide, take a look at their website
     image: /assets/images/IMG_BEDROOM_ARCHSHUTTER_web.png
     button:
-      text: Take a look at their website
+      text: NormanUSA.Com
       link: http://normanusa.com
 ---
 <!-- I am the home/index page content but commented out -->

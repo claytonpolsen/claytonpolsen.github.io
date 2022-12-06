@@ -20,17 +20,17 @@
 
 title: A&amp;C Window Coverings
 name: A&amp;C Window Coverings
-email: info@acwindowcoverings.com
+email: info@aandcwindowcoverings.com
 description: >- # this means to ignore newlines until "baseurl:"
   A&amp;C Window Coverings is the premier window covering installer and supplier of Norman Window Fashions in the Greater Utah region.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://acwindowcoverings.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://aandcwindowcoverings.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: acwindowcoverings
 github_username:  claytonpolsen
 
 logo: /assets/images/logo.png
 theme_color: #712cf9
-formspreeid: ABCDEF
+formspreeid: xnqredav
 workbox:
   sw_src_filepath: /assets/js/sw.js # Optional
   sw_dest_filename: /assets/js/sw.js # Optional

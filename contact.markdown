@@ -6,7 +6,7 @@ subtitle: we like getting emails!
 
 ## Contact Us
 
-Via email at: <a href="mailto:info@acwindowcoverings.com?subject=Window Covering Consultation">info@acwindowcoverings.com</a>
+Via email at: <a href="mailto:info@aandcwindowcoverings.com?subject=Window Covering Consultation">info@aandcwindowcoverings.com</a>
 
 Via Phone/Text at: <a href="tel:+13852299682">(385) 229-9682</a>
 
