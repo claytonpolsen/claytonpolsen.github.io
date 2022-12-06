@@ -22,10 +22,10 @@ title: A&amp;C Window Coverings
 name: A&amp;C Window Coverings
 email: info@aandcwindowcoverings.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A&amp;C Window Coverings is the premier window covering installer and supplier of Norman Window Fashions in the Greater Utah region.
+  A&amp;C Window Coverings is the premier window covering installer and supplier of Norman Window Fashions in the Greater Salt Lake City region.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://aandcwindowcoverings.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: acwindowcoverings
+# twitter_username: acwindowcoverings
 github_username:  claytonpolsen
 
 logo: /assets/images/logo.png

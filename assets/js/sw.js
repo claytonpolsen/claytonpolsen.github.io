@@ -13,7 +13,7 @@ if ('serviceWorker' in navigator) {
 
 // set names for both precache & runtime cache
 workbox.core.setCacheNameDetails({
-  prefix: 'acwindowcoverings.com',
+  prefix: 'aandcwindowcoverings.com',
   suffix: 'v1',
   precache: 'precache',
   runtime: 'runtime-cache'
