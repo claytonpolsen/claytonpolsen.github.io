@@ -15,19 +15,19 @@ Via Phone/Text at: <a href="tel:+13852299682">(385) 229-9682</a>
 <form action="https://formspree.io/f/{{ site.formspreeid }}" method="post">
   <div class="row py-2">
     <div class="col-2">Name</div>
-    <div class="col-8"><input name="name" type="text" /></div>
+    <div class="col-8"><input name="name" type="text" required="true" /></div>
   </div>
   <div class="row py-2">
     <div class="col-2">Email Address</div>
-    <div class="col-8"><input name="email" id="email" type="email" /></div>
+    <div class="col-8"><input name="email" id="email" type="email" required="true"/></div>
   </div>
     <div class="row py-2">
     <div class="col-2">Phone</div>
-    <div class="col-8"><input name="phone" id="phone" type="phone" /></div>
+    <div class="col-8"><input name="phone" id="phone" type="phone" required="true" /></div>
   </div>
   <div class="row py-2">
     <div class="col-2">Number of Windows</div>
-    <div class="col-8"><input name="windows" type="number" min="0"/></div>
+    <div class="col-8"><input name="windows" type="number" min="1"/></div>
   </div>
   <div class="row py-2">
     <div class="col-2">Body</div>
