@@ -22,8 +22,8 @@ Via Phone/Text at: <a href="tel:+13852299682" target="_BLANK">(385) 229-9682</a>
     <div class="col-8"><input name="email" id="email" type="email" required="true"/></div>
   </div>
     <div class="row py-2">
-    <div class="col-2">Phone</div>
-    <div class="col-8"><input name="phone" id="phone" type="phone" required="true" /></div>
+    <div class="col-2">Phone <span class="text-secondary">(123-456-7890)</span></div>
+    <div class="col-8"><input name="phone" id="phone" type="tel" pattern="[0-9]{3}.?[0-9]{3}.?[0-9]{4}" required="true" /></div>
   </div>
   <div class="row py-2">
     <div class="col-2">Number of Windows</div>
